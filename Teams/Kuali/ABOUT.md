@@ -21,3 +21,6 @@ The **Awesome** star developers:
 3. Shawon is the UX and Graphics Designer. The interface will never look as stunning and jaw-dropping without his expertise.
 
 
+4. Rommel is the backend dev and architect.He will devise the best implementation and optimum code.
+
+
